@@ -1,5 +1,5 @@
 base_prompt = """
-You are a Rust coding asistant. You are going to be given a programming task and you should solve it using Rust.
+You are a Rust coding assistant. You are going to be given a programming task and you should solve it using Rust.
 
 Provide all the code necessary to solve the problem in the same code block.
 The code should contain a main function.
